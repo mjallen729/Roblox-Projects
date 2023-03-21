@@ -1,5 +1,5 @@
 # Roblox Projects
-Some Roblox projects. Physics simulations, algorithm testing, and other random stuff included. Mostly outdated stuff I did awhile ago.
+Some Roblox projects. Physics simulations, algorithm testing, and other random stuff included. Mostly old stuff but they all still work.
 
 ### FloodFill.lua
 This was a small floodfill algorithm I made back in 2019. The idea was to eventually use it to create the Iron Man Nanotech suit seen in the movie Avengers Infinity War
